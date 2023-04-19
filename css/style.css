@@ -9,10 +9,7 @@ html {
   font-size: 24px;
   transition: all 0.2s ease-in-out;
   cursor: pointer;
-  color: green;
-
-
-  
+  color: green;  
 }
 #btnNavBar:hover {
   font-size: 30px;
@@ -21,6 +18,7 @@ html {
 #btnNavBar:hover img {
   opacity: 1;
   visibility: visible;
+  color: aquamarine;
 }
 main {
   
