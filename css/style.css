@@ -5,6 +5,30 @@ html {
   background-color: aqua;
 }
 
+#btnNavBar{
+  font-size: 24px;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+  color: green;
+
+
+  
+}
+#btnNavBar:hover {
+  font-size: 30px;
+}
+
+#btnNavBar:hover img {
+  opacity: 1;
+  visibility: visible;
+}
+main {
+  
+}
 h1 {
-  font-family: "DotGothic16", sans-serif;
+ 
+}
+
+.footer{
+
 }

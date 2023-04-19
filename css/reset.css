@@ -22,6 +22,9 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
+	font-family: "Press Start 2P", cursive;
+	font-family: "DotGothic16", sans-serif;
+	font-family: "Silkscreen", cursive;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
